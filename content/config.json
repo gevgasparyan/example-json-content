@@ -805,7 +805,7 @@
     "հրապարակ",
     "կենդանի"
   ],
-  "supportedLanguages": ["hy", "en", "it", "de"],
+  "supportedLanguages": ["hy", "en", "it"],
   "it": [
     "airplane",
     "astronaut",
@@ -1207,19 +1207,5 @@
     "street",
     "square",
     "animal"
-  ],
-  "de": [
-    "airplane",
-    "astronaut",
-    "banana",
-    "swimming",
-    "beach",
-    "birthday",
-    "blanket",
-    "cat",
-    "camera",
-    "army",
-    "fortress",
-    "chocolate"
   ]
 }
