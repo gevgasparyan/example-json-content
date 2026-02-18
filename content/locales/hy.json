@@ -1,0 +1,107 @@
+{
+  "setup": {
+    "title": "ALIAS",
+    "teams": "Խմբեր",
+    "addTeam": "Ավելացնել խումբ",
+    "targetScore": "Ընդհանուր միավորներ",
+    "pts": "միավոր",
+    "roundDuration": "Փուլի տևողություն",
+    "duration": "Տևողություն",
+    "sec": "վայրկյան",
+    "gameMode": "Խաղի ռեժիմ",
+    "classic": "Դասական",
+    "arcade": "Արկադային",
+    "language": "Լեզու",
+    "english": "English",
+    "armenian": "Հայերեն",
+    "teamWordsLanguage": "Բառեր",
+    "useDefault": "Լռելյայն",
+    "sound": "Ձայն",
+    "vibration": "Թրթռոց",
+    "startGame": "Սկսել խաղը",
+    "editMembers": "Խմբագրել անդամներ",
+    "membersHint": "Սահմանեք անունը և բառերի լեզուն յուրաքանչյուր անդամի համար: Իր հերթի ժամանակ բառերը կցուցադրվեն յուրաքանչյուր անդամի ընտրած լեզվով:",
+    "memberDefaultName": "Անդամ %{number}",
+    "memberNamePlaceholder": "Անուն",
+    "memberWordsLanguage": "Բառեր",
+    "addMember": "Ավելացնել",
+    "confirmMembers": "Պահպանել"
+  },
+  "language": {
+    "en": "English",
+    "hy": "Հայերեն",
+    "it": "Italiano"
+  },
+  "flags": {
+    "en": "🇬🇧",
+    "hy": "🇦🇲",
+    "it": "🇮🇹"
+  },
+  "flagsText": {
+    "en": "EN",
+    "hy": "HY",
+    "it": "IT"
+  },
+  "countdown": {
+    "getReady": "Պատրաստվեք!",
+    "hint": "Նկարագրեք բառը առանց այն ասելու!",
+    "arcadeMode": "Արկադային ռեժիմ",
+    "classicMode": "Դասական ռեժիմ"
+  },
+  "play": {
+    "loading": "Բեռնվում է...",
+    "skip": "Բաց թողնել",
+    "correct": "Ճիշտ"
+  },
+  "alert": {
+    "exitRound": "Դուրս գալ փուլից?",
+    "exitRoundMessage": "Ձեր արդյունքը կպահպանվի: Դուրս գալ հիմա?",
+    "cancel": "Չեղարկել",
+    "exit": "Դուրս գալ",
+    "endGame": "Ավարտել խաղը?",
+    "endGameMessage": "Համոզված եք, որ ցանկանում եք ավարտել խաղը և վերադառնալ կարգավորումներ?",
+    "endGameConfirm": "Ավարտել խաղը"
+  },
+  "review": {
+    "editRound": "Խմբագրել փուլը",
+    "roundOver": "Փուլն ավարտվեց!",
+    "correct": "Ճիշտ",
+    "wrong": "Սխալ",
+    "total": "Ընդամենը",
+    "noWords": "Այս փուլում չկան պատասխանած բառեր",
+    "confirmResults": "Հաստատել արդյունքները",
+    "card": "Քարտ"
+  },
+  "scoreboard": {
+    "title": "Ամփոփում",
+    "total": "Ընդամենը",
+    "firstToWins": "Հաղթում է առաջինը, ով հասնում է %{score} միավորին",
+    "nextUp": "Հաջորդը",
+    "startRound": "Սկսել փուլը"
+  },
+  "winner": {
+    "congratulations": "Շնորհավորում ենք!",
+    "points": "միավոր",
+    "finalStandings": "Իրական արդյունքներ",
+    "newGame": "Նոր խաղ"
+  },
+  "notFound": {
+    "title": "Օխ!",
+    "message": "Այս էջը գոյություն չունի:",
+    "goHome": "Գնալ գլխավոր էջ!"
+  },
+  "error": {
+    "title": "Ինչ-որ բան սխալ գնաց",
+    "message": "Խնդրում ենք վերաբեռնել հավելվածը շարունակելու համար:",
+    "tryAgain": "Կրկին փորձել",
+    "details": "Սխալի մանրամասներ"
+  },
+  "common": {
+    "team": "Խումբ",
+    "teamNumber": "Խումբ %{number}"
+  },
+  "members": {
+    "count": "%{count} անդամ",
+    "edit": "Խմբագրել"
+  }
+}

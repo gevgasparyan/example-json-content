@@ -1,0 +1,107 @@
+{
+  "setup": {
+    "title": "ALIAS",
+    "teams": "Teams",
+    "addTeam": "Add Team",
+    "targetScore": "Target Score",
+    "pts": "pts",
+    "roundDuration": "Round Duration",
+    "duration": "Duration",
+    "sec": "sec",
+    "gameMode": "Game Mode",
+    "classic": "Classic",
+    "arcade": "Arcade",
+    "language": "Language",
+    "english": "English",
+    "armenian": "Հայերեն",
+    "teamWordsLanguage": "Words in",
+    "useDefault": "Default",
+    "sound": "Sound",
+    "vibration": "Vibration",
+    "startGame": "Start Game",
+    "editMembers": "Edit Members",
+    "membersHint": "Set names and word language for each team member. Words will be shown in each member's language during their turn.",
+    "memberDefaultName": "Member %{number}",
+    "memberNamePlaceholder": "Name",
+    "memberWordsLanguage": "Words in",
+    "addMember": "Add Member",
+    "confirmMembers": "Save"
+  },
+  "language": {
+    "en": "English",
+    "hy": "Հայերեն",
+    "it": "Italiano"
+  },
+  "flags": {
+    "en": "🇬🇧",
+    "hy": "🇦🇲",
+    "it": "🇮🇹"
+  },
+  "flagsText": {
+    "en": "EN",
+    "hy": "HY",
+    "it": "IT"
+  },
+  "countdown": {
+    "getReady": "Get Ready!",
+    "hint": "Describe the word without saying it!",
+    "arcadeMode": "Arcade Mode",
+    "classicMode": "Classic Mode"
+  },
+  "play": {
+    "loading": "Loading...",
+    "skip": "Skip",
+    "correct": "Correct"
+  },
+  "alert": {
+    "exitRound": "Exit round?",
+    "exitRoundMessage": "Your current progress will be saved. Exit now?",
+    "cancel": "Cancel",
+    "exit": "Exit",
+    "endGame": "End game?",
+    "endGameMessage": "Are you sure you want to end the game and return to setup?",
+    "endGameConfirm": "End Game"
+  },
+  "review": {
+    "editRound": "Edit Round",
+    "roundOver": "Round Over!",
+    "correct": "Correct",
+    "wrong": "Wrong",
+    "total": "Total",
+    "noWords": "No words were answered this round",
+    "confirmResults": "Confirm Results",
+    "card": "Card"
+  },
+  "scoreboard": {
+    "title": "Scoreboard",
+    "total": "Total",
+    "firstToWins": "First to %{score} wins",
+    "nextUp": "Next up",
+    "startRound": "Start Round"
+  },
+  "winner": {
+    "congratulations": "Congratulations!",
+    "points": "points",
+    "finalStandings": "Final Standings",
+    "newGame": "New Game"
+  },
+  "notFound": {
+    "title": "Oops!",
+    "message": "This screen doesn't exist.",
+    "goHome": "Go to home screen!"
+  },
+  "error": {
+    "title": "Something went wrong",
+    "message": "Please reload the app to continue.",
+    "tryAgain": "Try Again",
+    "details": "Error Details"
+  },
+  "common": {
+    "team": "Team",
+    "teamNumber": "Team %{number}"
+  },
+  "members": {
+    "count": "%{count} members",
+    "edit": "Edit"
+  }
+}
