@@ -17,6 +17,12 @@
     "teamWordsLanguage": "Words in",
     "useDefault": "Default",
     "sound": "Sound",
+    "appearance": "Appearance",
+    "system": "System",
+    "light": "Light",
+    "dark": "Dark",
+    "showMore": "Show more",
+    "more": "More",
     "vibration": "Vibration",
     "startGame": "Start Game",
     "editMembers": "Edit Members",
@@ -30,17 +36,23 @@
   "language": {
     "en": "English",
     "hy": "Հայերեն",
-    "it": "Italiano"
+    "it": "Italiano",
+    "de": "Deutsch",
+    "ru": "Русский"
   },
   "flags": {
     "en": "🇬🇧",
     "hy": "🇦🇲",
-    "it": "🇮🇹"
+    "it": "🇮🇹",
+    "de": "🇩🇪",
+    "ru": "🇷🇺"
   },
   "flagsText": {
     "en": "EN",
     "hy": "HY",
-    "it": "IT"
+    "it": "IT",
+    "de": "DE",
+    "ru": "RU"
   },
   "countdown": {
     "getReady": "Get Ready!",

@@ -17,6 +17,12 @@
     "teamWordsLanguage": "Parole in",
     "useDefault": "Predefinito",
     "sound": "Suono",
+    "appearance": "Aspetto",
+    "system": "Sistema",
+    "light": "Chiaro",
+    "dark": "Scuro",
+    "showMore": "Mostra di più",
+    "more": "Di più",
     "vibration": "Vibrazione",
     "startGame": "Inizia gioco",
     "editMembers": "Modifica membri",
@@ -27,9 +33,27 @@
     "addMember": "Aggiungi",
     "confirmMembers": "Salva"
   },
-  "language": { "en": "English", "hy": "Հայերեն", "it": "Italiano" },
-  "flags": { "en": "🇬🇧", "hy": "🇦🇲", "it": "🇮🇹" },
-  "flagsText": { "en": "EN", "hy": "HY", "it": "IT" },
+  "language": {
+    "en": "English",
+    "hy": "Հայերեն",
+    "it": "Italiano",
+    "de": "Deutsch",
+    "ru": "Русский"
+  },
+  "flags": {
+    "en": "🇬🇧",
+    "hy": "🇦🇲",
+    "it": "🇮🇹",
+    "de": "🇩🇪",
+    "ru": "🇷🇺"
+  },
+  "flagsText": {
+    "en": "EN",
+    "hy": "HY",
+    "it": "IT",
+    "de": "DE",
+    "ru": "RU"
+  },
   "countdown": {
     "getReady": "Pronti!",
     "hint": "Descrivi la parola senza dirla!",

@@ -17,6 +17,12 @@
     "teamWordsLanguage": "Բառեր",
     "useDefault": "Լռելյայն",
     "sound": "Ձայն",
+    "appearance": "Թեմա",
+    "system": "Համակարգ",
+    "light": "Բաց",
+    "dark": "Մուգ",
+    "showMore": "Տեսնել ավելինs",
+    "more": "Ավելին",
     "vibration": "Թրթռոց",
     "startGame": "Սկսել խաղը",
     "editMembers": "Խմբագրել անդամներ",
@@ -30,17 +36,23 @@
   "language": {
     "en": "English",
     "hy": "Հայերեն",
-    "it": "Italiano"
+    "it": "Italiano",
+    "ru": "Русский",
+    "de": "Deutsch"
   },
   "flags": {
     "en": "🇬🇧",
     "hy": "🇦🇲",
-    "it": "🇮🇹"
+    "it": "🇮🇹",
+    "ru": "🇷🇺",
+    "de": "🇩🇪"
   },
   "flagsText": {
     "en": "EN",
     "hy": "HY",
-    "it": "IT"
+    "it": "IT",
+    "ru": "RU",
+    "de": "DE"
   },
   "countdown": {
     "getReady": "Պատրաստվեք!",
